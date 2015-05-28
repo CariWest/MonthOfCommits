@@ -1,10 +1,10 @@
-# MonthOfCommits
+# Month Of Commits
 
-This is a project to make commits to GitHub every day for a month. Commits might be anything from fixing a typo to adding a new feature to a project.
+This is a project to make commits to GitHub every day for a month. Commits might be tiny, like fixing a typo, or big, like adding a new feature to a project.
 
 ## Finished Commits
 
-1. Start the Month of Commits project
+**6/27:** Start the Month of Commits project
 
 ## List of Potential Mini-projects
 
