@@ -4,7 +4,7 @@ This is a project to make commits to GitHub every day for a month. Commits might
 
 ## Finished Commits
 
-**6/27:** Start the Month of Commits project
+**6/27:** [Start the Month of Commits project](https://github.com/CariWest/MonthOfCommits)
 
 ## List of Potential Mini-projects
 
